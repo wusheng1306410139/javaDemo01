@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("主干添加");
         System.out.println("gitHub添加");
         System.out.println("我又修改了");
+        System.out.println("主干修改");
     }
 }
